@@ -1,0 +1,17 @@
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\bin\Debug\log_in.exe
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\bin\Debug\log_in.pdb
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\log_in.Form1.resources
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\log_in.Properties.Resources.resources
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\log_in.exe
+C:\Users\user.master-PC22.002\Desktop\log_in\log_in\obj\x86\Debug\log_in.pdb
+D:\year4 2nd semester\security\New folder\log_in\obj\x86\Debug\log_in.exe
+D:\year4 2nd semester\security\New folder\log_in\obj\x86\Debug\log_in.pdb
+D:\year4 2nd semester\security\New folder\log_in\bin\Debug\log_in.exe
+D:\year4 2nd semester\security\New folder\log_in\bin\Debug\log_in.pdb
+D:\year4 2nd semester\security\New folder\log_in\obj\x86\Debug\log_in.csprojResolveAssemblyReference.cache
+D:\year4 2nd semester\security\New folder\log_in\obj\x86\Debug\log_in.Form1.resources
+D:\year4 2nd semester\security\New folder\log_in\obj\x86\Debug\log_in.Properties.Resources.resources
+D:\year4 2nd semester\security\New folder\log_in\obj\x86\Debug\log_in.csproj.GenerateResource.Cache
